@@ -14,7 +14,7 @@
 
 ## 🔎 About Me
 - 🎯 **Mission**: Deliver scalable backends, process automation, and AI-powered solutions that drive real impact.  
-- 💼 **Currently**: Software Developer at [South System](https://southsystem.com.br/) (Nov 2020 – Present).  
+- 💼 **Currently**: Software Developer at [South System](https://southsystem.com.br/) (Jul 2020 – Present).  
 - 💡 **Strengths**: Clean architecture, agile methodologies, mentoring QA & dev teams, and a strong focus on quality and performance.  
 
 ---
