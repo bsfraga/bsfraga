@@ -24,7 +24,7 @@
 
 ### South System  
 #### Backend Developer  
-_Nov 2022 – May 2024_  
+_Nov 2022 – May 2025_  
 - Developed microservices using Java (Spring Boot), AWS Lambda, SQS, and Serverless Framework.
 - Built Python Lambda functions to support AI workflows.
 - Integrated n8n for orchestration of internal automations.
