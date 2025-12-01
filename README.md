@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I’m Bruno Schuster Fraga</h1>
+
 <h3 align="center">Backend Software Engineer | Java & Python | Spring Boot, AWS, AI & Automation 🚀</h3>
 
 <p align="center">
@@ -14,39 +15,62 @@
 
 ## 🔍 About Me
 
-- 🎯 **Mission**: Build scalable backends and intelligent automation pipelines that create real value.
-- 💼 **Last Role**: Backend Developer at South System, working with Java, Python, AWS and serverless architecture.
-- 💡 **Strengths**: Software craftsmanship, DevOps culture, automated QA, and team mentorship.
+- 🎯 **Mission**: Build scalable backends, robust integration ecosystems, and intelligent automation pipelines that create real value.
+
+- 💼 **Current Role**: Backend Software Engineer at **Ília**, building event-driven architectures with Java, Spring Boot, and AWS.
+
+- 💡 **Strengths**: Software craftsmanship, DevOps culture, automated QA strategies, and team mentorship.
 
 ---
 
 ## 💼 Experience
 
-### South System  
-#### Backend Developer  
-_Nov 2022 – May 2025_  
-- Developed microservices using Java (Spring Boot), AWS Lambda, SQS, and Serverless Framework.
-- Built Python Lambda functions to support AI workflows.
-- Integrated n8n for orchestration of internal automations.
-- Mentored developers and QA teams on code quality and architecture best practices.
+### Ília (MIO Vinci Partners)
 
-#### QA Analyst  
-_Jul 2020 – Mar 2022_  
-- Created end-to-end automated tests using RestAssured, Cypress, and Appium.
-- Led QA validation efforts for high-impact banking systems (Sicredi).
-- Contributed to automation pipelines using Java, Groovy, and Python.
+#### Backend Software Engineer
 
-### CWI Software  
-#### QA Analyst  
-_Nov 2019 – Jul 2020_  
-- Automated web and API tests using Selenium (Java/Python).
-- Improved regression testing with data-driven test suites.
+_Jan 2025 – Present_
 
-### Zero-Defect Test House  
-#### QA Intern  
-_Jun 2019 – Nov 2019_  
-- Created test plans and functional tests for APIs, web, and mobile.
-- Contributed to manual and automated execution workflows.
+- Building robust integration ecosystems and exposing scalable services via AWS API Gateway.
+- Implementing complex business rules using modern Java (17/21) and Spring Boot.
+- Developing event-driven architectures with AWS SQS and hybrid persistence strategies (PostgreSQL & DynamoDB).
+- Ensuring integration quality through Contract Tests (Pact) and technical documentation (OpenAPI/Swagger).
+
+### South System
+
+#### Backend Developer
+
+_2022 – 2024_
+
+- **Titles System (ATF-Bank):** Led backend development focusing on high performance and scalability using Spring Boot and AWS.
+- **Internal HR Project (Jobii):** Implemented microservices to facilitate the transition from monolithic architecture.
+- Mentored developers and ensured code quality through rigorous code reviews.
+
+#### QA Analyst
+
+_Jul 2020 – 2022_
+
+- **Jobii & Sicredi:** Led CI/CD implementation and structured functional/automated tests.
+- Executed tests for core banking systems using Java, Groovy, and Python.
+- Automated validation processes for financial products and Salesforce applications.
+
+### CWI Software
+
+#### QA Analyst
+
+_Nov 2019 – Jul 2020_
+
+- Automated web and API tests using Selenium (Java/Python) for critical payment systems (Auttar).
+- Managed continuous integration processes with Jenkins.
+
+### Zero-Defect Test House
+
+#### QA Intern
+
+_Jun 2019 – Nov 2019_
+
+- Created test plans and functional tests for APIs, web, and mobile (BeatStars, VeroGO).
+- Developed automated tests using C#, Selenium, and Postman.
 
 ---
 
@@ -55,9 +79,13 @@ _Jun 2019 – Nov 2019_
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/restassured.svg" alt="RestAssured" width="40" height="40"/>
@@ -70,8 +98,8 @@ _Jun 2019 – Nov 2019_
 
 ## 📫 Contact
 
-- ✉️ Email: brunofraga_@outlook.com.br  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-s-fraga)  
+- ✉️ Email: brunofraga_@outlook.com.br
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-s-fraga)
 
 ---
 
